@@ -22,6 +22,26 @@ while($r[]=mysql_fetch_array($result));
 
 
 ?>
+<h2 align="center">Rohan Mundhey</h2>
+
+<table align="center"  width="1000">
+    
+<tr>
+    <td></td>
+    
+    <td><h5 align="right">mundheyrohan@gmail.com</h5></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td align="right"><img src="rohan.jpg" height="80" width="80"></td>
+</tr>
+
+</table>
+
+
+
+
 
 <table border="2" align="center">
 
@@ -53,15 +73,7 @@ while($r[]=mysql_fetch_array($result));
 
 
 
-
-
-
 </table>
-
-  
- 
-
-
 
 
 </body>
